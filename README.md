@@ -1,66 +1,52 @@
-## Hi there 👋
+## Hi there 👋 I'm Issah (but you can call me John)
 
-Hey there, I'm Issah721
-💻 Information Science & IT Enthusiast | Cybersecurity & Python Developer | AI & Automation Explorer
+  💻 Professional Bug Creator & Finder | Python Enthusiast | Professional Homelab Overbuilder
 
-Welcome to my GitHub profile!
-I'm a passionate tech learner and builder from Kenya 🇰🇪, currently diving deep into cybersecurity, Python development, and intelligent systems. I blend information science, security principles, and practical coding to build secure, smart solutions.
+> "I spend my days writing code that works and finding ways to break code that shouldn't. 🇰🇪
 
-🚀 What I'm Working On
-🔒 Cybersecurity & Bug Bounty Journey
-Web Application Security: Hands-on experience with Burp Suite, SQL injection, command injection vulnerabilities
+Welcome to my digital playground! I'm a tech enthusiast from Kenya who accidentally fell in love with breaking things (the legal kind, I promise). 
 
-Bug Bounty Hunting: Active reconnaissance using subfinder, nikto, and other OSINT tools
+### What I'm Currently Breaking/Building
 
-Security Training: Completed Mastercard Cybersecurity Virtual Internship & Cisco Ethical Houting courses
+ **Cybersecurity Adventures**
+- **Web App Security:** I politely ask websites for their databases using Burp Suite & SQLMap
+- **Bug Bounty Hunting:** Getting paid to do digital archaeology with subfinder & nikto
+- **Penetration Testing:** My computer now runs more Linux distros than my brain can handle
+- **Training:** Completed Mastercard Cybersecurity & Cisco Ethical "Houting" (typo intended) courses
 
-Penetration Testing: Practical experience with Kali Linux, Parrot OS, and security assessment tools
+**Python Shenanigans**
+- **Backend Development:** Learning Django REST Framework (it's resting, I'm working)
+- **Automation:** Built a progress tracker to track my progress in building progress trackers 🐢
+- **Fundamentals:** Strong grasp of `if`, `else`, and the ever-confusing `elif`
 
-🐍 Python Development
-Backend Development: Learning Django REST Framework for building robust APIs
+###  Tech Stack & Tools I Actually Use
 
-Automation & Tooling: Building custom progress tracking systems and automation scripts
+| Category | My Arsenal |
+|----------|------------|
+| **💻 Programming** | Python, JavaScript, C# (the holy trinity of "it worked on my machine") |
+| **🔐 Security** | Burp Suite, SQLmap, Nikto, and 3 different Linux distros to feel fancy |
+| **🌐 Web Dev** | Django REST Framework, HTML, CSS, React, Node.js |
+| **⚙️ Systems** | Linux (all the flavors), WSL, Networking, Virtualization (homelab go brrr) |
+| **🧰 Development** | Git, VS Code, JSON, and copious amounts of coffee |
 
-Fundamentals: Strong grasp of functions, loops, conditional logic, and data structures
+###  Recent Victories (aka "Things That Finally Worked")
+-  Completed courses without falling asleep (mostly)
+-  Started bug bounty hunting - currently at "finding bugs" phase, "getting bounty" phase pending
+-  Built a progress tracker that tracks my progress in building progress trackers (it's meta)
+-  Set up penetration testing environment (my computer now has more VMs than friends)
 
-🛠️ Tech Stack & Tools
-Category	Technologies & Tools
-💻 Programming	Python, JavaScript, C#
-🔐 Security	Burp Suite, SQLmap, Nikto, Subfinder, Dirb
-🌐 Web Development	Django REST Framework, HTML, CSS, React, Node.js
-⚙️ Systems	Linux (Kali, Parrot OS), WSL, Networking, Virtualization
-🧰 Development	Git, VS Code, JSON, API Development
-📈 Recent Milestones
-✅ Completed Web Vulnerabilities course & Mastercard Cybersecurity Internship
+### Currently Learning
+- How to pronounce "Django" correctly
+- Advanced ways to break into things (ethically, mom!)
+- That sleep is important (I keep ignoring this lesson)
+- Bug bounty reconnaissance (the art of digital stalk-- I mean, research)
 
-✅ Started active bug bounty hunting with Bugcrowd account
+### Let's Connect (or don't, I'm not your manager)
 
-✅ Learning Django REST Framework for backend development
 
-✅ Built custom progress tracking system in Python
+> *"Building secure systems while continuously learning - one vulnerability at a time. Also, have you tried turning it off and on again?"*
 
-✅ Set up comprehensive penetration testing environment
 
-🌱 Currently Learning
-    Advanced web vulnerability assessment techniques
+**⭐ Pro tip: My repositories contain actual code! Mostly. Some of it even works!**
 
-  Django REST Framework and API development
-
-  Ethical hacking methodologies
-
-Bug bounty reconnaissance and reporting
-
-📫 Let's Connect
-
-🐱 GitHub: github.com/Issah721
-
-"Building secure systems while continuously learning - one vulnerability at a time."
-— Issah721.
-
-⭐ Explore my repositories to see my cybersecurity tools, Python projects, and learning journey.
-Contributions and collaborations are welcome.
-
-Kept original strengths - Maintained your information science background while adding new technical depth
-
-This version presents you as an active, evolving developer with clear direction in both cybersecurity and Python development!
-
+*P.S. If you find any vulnerabilities in my code, please don't exploit them - we can split the bug bounty 60/40 (I get 60 for the emotional damage).*
